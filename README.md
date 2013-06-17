@@ -18,6 +18,13 @@ talep ettiğiniz eğitimler varsa issue acarak tartışmaya açabilirsiniz.
 * Sunumlara ait slide-show'lar.
 * Eğitimlere ait videoların linkleri
 
+## Nasıl Takip Edeceksiniz ?
+
+* Her bir milestone, eğitimin zamanını belirler. 
+* Milestonelar ile ilişkilendirilmiş issuelar, eğitimin içeriğini belirler.
+* Issue'lara atanmış kişiler, eğitimciyi belirler.
+* Issue'lardaki etiketler ise eğitimin durumunu belirler.(örneğin: backlog - Planlanan, ready - Hazırlanan gibi)
+
 ## Eğitim Programını Daha Efektif Takip Etmek İçin
 
 [lab2023 Kanban (Huboard)](http://kanban.lab2023.com) alanına erişerek, uygulamaya github üzerinden oturum açıp, 
