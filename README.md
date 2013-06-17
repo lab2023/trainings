@@ -1,7 +1,7 @@
 Trainings
 =========
 
-lab2023'ün kurum içi ve kurum dışı tüm eğitim konu başlıklarının, eğitim içeriğinin ve eğitimlerle ilgili
+[lab2023](http://lab2023.com)'ün kurum içi ve kurum dışı tüm eğitim konu başlıklarının, eğitim içeriğinin ve eğitimlerle ilgili
 materyallerin barındırılacağı alandır. 
 
 Eğitimlerimizi github üzerinden mevcut proje yönetim sistemi standartlarımızı kullanarak takip etmenin ve
