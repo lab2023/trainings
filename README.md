@@ -14,7 +14,7 @@ talep ettiğiniz eğitimler varsa issue acarak tartışmaya açabilirsiniz.
 
 * Eğitim Konuları ve Programı (Milestone ve Issue olarak)
 * Eğitim konuları ile ilgili sorular, cevaplar ve tartışmalar. (Issue veya commit)
-* Eğitimlerle ilgili hazırlanan kod örnekleri, kod parçaçıkları.
+* Eğitimlerle ilgili hazırlanan kod örnekleri, kod parçacıkları.
 * Sunumlara ait slide-show'lar.
 * Eğitimlere ait videoların linkleri
 
