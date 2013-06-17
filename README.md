@@ -18,5 +18,14 @@ talep ettiğiniz eğitimler varsa issue acarak tartışmaya açabilirsiniz.
 * Sunumlara ait slide-show'lar.
 * Eğitimlere ait videoların linkleri
 
-Herkese hayırlı olsun.
+## Eğitim Programını Daha Efektif Takip Etmek İçin
+
+[lab2023 Kanban (Huboard)](http://kanban.lab2023.com) alanına erişerek, uygulamaya github üzerinden oturum açıp, 
+açılan listeden bu repository'i seçerek takip edebilirsiniz.
+
+Huboard ve proje yönetim sistemimiz hakkında daha fazla bilgi almak için aşağıdaki kaynaklardan faydalanabilirsiniz.
+
+* https://github.com/lab2023/playbook/blob/master/development/cevik_proje_yonetimi.md#huboard
+* http://www.lab2023.com/kurum-ici-egitim-murat-kemal-baygun-huboard-semver-git-gitflow-ve-proje-yonetimi
+
 İyi çalışmalar.
